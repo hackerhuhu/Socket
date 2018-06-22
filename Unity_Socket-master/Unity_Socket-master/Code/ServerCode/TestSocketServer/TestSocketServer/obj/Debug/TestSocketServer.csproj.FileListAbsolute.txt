@@ -1,0 +1,6 @@
+G:\TestProject\SocketTest\ServerCode\TestSocketServer\TestSocketServer\bin\Debug\TestSocketServer.exe.config
+G:\TestProject\SocketTest\ServerCode\TestSocketServer\TestSocketServer\bin\Debug\TestSocketServer.exe
+G:\TestProject\SocketTest\ServerCode\TestSocketServer\TestSocketServer\bin\Debug\TestSocketServer.pdb
+G:\TestProject\SocketTest\ServerCode\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.csprojResolveAssemblyReference.cache
+G:\TestProject\SocketTest\ServerCode\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.exe
+G:\TestProject\SocketTest\ServerCode\TestSocketServer\TestSocketServer\obj\Debug\TestSocketServer.pdb
